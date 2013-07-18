@@ -1,2 +1,4 @@
 feedreader google chrome
 C:\Program Files (x86)\GnuWin32\bin
+
+joao maarques
